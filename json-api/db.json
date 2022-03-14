@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "My first Stream",
+      "description": "Come Join Me!",
+      "userId": "109651152518712178617",
+      "id": 1
+    },
+    {
+      "title": "My second Stream",
+      "description": "come watch!",
+      "userId": "109651152518712178617",
+      "id": 2
+    }
+  ]
+}
